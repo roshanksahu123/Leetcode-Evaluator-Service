@@ -1,12 +1,8 @@
 
 =
 tsconfig.json,6/1/61ebb9fd6e8cf9082658121d5d81e297791dacd0
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 8
 Setup.md,3/b/3bf2ec65ce8179f8147d2c182841cd2cc3bcffae
-8
-index.ts,a/1/a123abce010ea7d96fa76c6a9040950b5dac59bc
 =
 dist/index.js,3/9/394a755a87e58e88b1d2f3f56957a32cfefe9a9a
 <
@@ -15,8 +11,6 @@
 package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
 4
 .env,3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
-K
-src/config/server.config.ts,c/f/cff363c6260c1e6c06f9d9dcf74166c9a149d36b
 J
 src/config/serverConfig.ts,b/4/b4b14d243bb4aa48e9a5c348df580b01b55d56e0
 U
@@ -24,3 +18,13 @@ U
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+<
+.eslintrc.js,d/b/dbc0c31823b8f2e4ed04a397722fed33a67f123f
+A
+eslint.config.mjs,4/6/461c8d07f6daba9aca7f065de90c025d0dc285be
+9
+	.eslintrc,4/b/4be5f5e3cea171c304090be92469b2f2cb51039a
+=
+.eslintignore,8/8/88939cd7e826eac4f61dd9adac091b9d64277287
+A
+package-lock.json,f/a/fa288d1472d29beccb489a676f68739ad365fc47
