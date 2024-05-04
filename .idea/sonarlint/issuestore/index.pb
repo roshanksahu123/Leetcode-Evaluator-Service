@@ -27,3 +27,9 @@ E
 src/jobs/SampleJob.ts,9/4/94d7c82cc39fcb3a25c4f3b62d695d8e3756e3ff
 I
 src/queues/sampleQueue.ts,3/e/3e78f35fd21bd1c0bc24142207ff191320bc8538
+T
+$src/producers/sampleQueueProducer.ts,1/4/1464bb06b54b4e32043df4df859b96e2beee45bc
+K
+src/workers/SampleWroker.ts,c/5/c5381fd00f4f8d88f4f0cdf988a9de31ee9521ad
+Q
+!src/types/bullMqWorkerResponse.ts,e/6/e6668a1c58a180b4e996ff469e5adcbd8acba39a
