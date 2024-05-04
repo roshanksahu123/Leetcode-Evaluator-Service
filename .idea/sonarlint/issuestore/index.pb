@@ -19,3 +19,11 @@ Q
 !src/controllers/pingController.ts,b/7/b7ccab7787be5a0a1794633ef579ea920f7e09b3
 I
 src/config/redisConfig.ts,f/4/f4374268e4f55555c80acc2066f6499ef383f565
+P
+ src/types/bullMqJobDefinition.ts,6/3/633624ac23802197c27799347135edbec3df8d0e
+E
+src/jobs/sampleJob.ts,d/c/dc1774ba7762bab05674c0ed23daf9c06cebb4b7
+E
+src/jobs/SampleJob.ts,9/4/94d7c82cc39fcb3a25c4f3b62d695d8e3756e3ff
+I
+src/queues/sampleQueue.ts,3/e/3e78f35fd21bd1c0bc24142207ff191320bc8538
