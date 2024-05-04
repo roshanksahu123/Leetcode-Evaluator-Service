@@ -18,10 +18,6 @@ U
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-<
-.eslintrc.js,d/b/dbc0c31823b8f2e4ed04a397722fed33a67f123f
-A
-eslint.config.mjs,4/6/461c8d07f6daba9aca7f065de90c025d0dc285be
 9
 	.eslintrc,4/b/4be5f5e3cea171c304090be92469b2f2cb51039a
 =
@@ -34,3 +30,5 @@ C
 src/routes/index.ts,8/6/86068f311586d8e3d751361f7678a15291bc6ec6
 Q
 !src/controllers/pingController.ts,b/7/b7ccab7787be5a0a1794633ef579ea920f7e09b3
+I
+src/config/redisConfig.ts,f/4/f4374268e4f55555c80acc2066f6499ef383f565
